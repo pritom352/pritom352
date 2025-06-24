@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- Banner Image -->
+<img src="https://i.imgur.com/0Xr7gXn.png" alt="GitHub Banner" width="100%" />
 
-<!--
-**pritom352/pritom352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Pritom Proshad 👋</h1>
+<h3 align="center">Front-End Web Developer | React Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+আমি একজন Computer Science & Technology (CST) শিক্ষার্থী। গত ৬ মাস ধরে আমি ফ্রন্টএন্ড ওয়েব ডেভেলপমেন্ট শিখছি এবং কিছু ভালো মানের প্রজেক্ট তৈরি করেছি।
+
+- 🌍 আমি থাকি Naogaon, Rajshahi, Bangladesh
+- 💻 আমি সবচেয়ে বেশি কাজ করি React.js নিয়ে
+- 🌱 আমি বর্তমানে Next.js শেখার চেষ্টা করছি
+- 🔁 আমি প্রতিদিন GitHub-এ কন্ট্রিবিউট করছি
+
+---
+
+## 🛠️ My Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pritom.proshad.2024)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritomproshad@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Pritom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritom352&show_icons=true&theme=default)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritom352&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritom352)
+
+---
+
