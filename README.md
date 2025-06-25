@@ -1,11 +1,7 @@
 <img src="https://raw.githubusercontent.com/pritom352/pritom352/refs/heads/main/ChatGPT%20Image%20Jun%2025%2C%202025%2C%2009_20_24%20AM.png" alt="GitHub Banner" width="100%" height="500" />
 ---
-<h1 align="center">
-  <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" height="24" />
-  <b>Hi, I'm</b>&nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=100&color=0E91EC&width=220&lines=Pritom+Proshad" alt="Typing Name" />
-</h1>
-<table align="center">
+<h2>Hi I am Pritom Proshad</h2>
+<!-- <table align="center">
 <tr>
   <td><strong>Hi, I'm&nbsp;</strong></td>
   <td>
@@ -13,7 +9,7 @@
   </td>
   <td>👋</td>
 </tr>
-</table>
+</table> -->
 
 
 ---
