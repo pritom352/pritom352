@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E91EC&width=220&lines=Pritom+Proshad" alt="Typing Name" />
 </p>
 
-<div style="vertical-align:middle;"  >Hi, I'm   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E91EC&width=220&lines=Pritom+Proshad" alt="Typing Name" /></div>
+<div>Hi, I'm   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E91EC&width=220&lines=Pritom+Proshad" alt="Typing Name" /></div>
 
 
 
