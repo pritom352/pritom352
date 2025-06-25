@@ -5,6 +5,10 @@
   <b>Hi, I'm</b>&nbsp;
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E91EC&width=220&lines=Pritom+Proshad" alt="Typing Name" />
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E91EC&center=true&vCenter=true&width=450&lines=Hi,+I'm+Pritom+Proshad+👋" alt="Typing SVG" />
+</p>
+
 ---
 ## 🧑‍💻 About Me
 
