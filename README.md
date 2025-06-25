@@ -12,12 +12,16 @@
 
 ## 🧑‍💻 About Me
 
-আমি একজন Computer Science & Technology (CST) শিক্ষার্থী। গত ৬ মাস ধরে আমি ফ্রন্টএন্ড ওয়েব ডেভেলপমেন্ট শিখছি এবং কিছু ভালো মানের প্রজেক্ট তৈরি করেছি।
 
-- 🌍 আমি থাকি Naogaon, Rajshahi, Bangladesh
-- 💻 আমি সবচেয়ে বেশি কাজ করি React.js নিয়ে
-- 🌱 আমি বর্তমানে Next.js শেখার চেষ্টা করছি
-- 🔁 আমি প্রতিদিন GitHub-এ কন্ট্রিবিউট করছি
+I am a student of Computer Science & Technology (CST). For the past 6 months, I have been learning front-end web development and have built several high-quality projects.
+
+🌍 I live in Naogaon, Rajshahi, Bangladesh
+
+💻 I mostly work with React.js
+
+🌱 I am currently learning Next.js
+
+🔁 I contribute to GitHub every day
 
 ---
 
