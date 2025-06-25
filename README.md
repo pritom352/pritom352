@@ -44,11 +44,20 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritom352)
 </div>
+--------------
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hridaysonar&style=for-the-badge&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hridaysonar?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue?style=for-the-badge" alt="Focus" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hridaysonar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridaysonar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridaysonar&theme=tokyonight&hide_border=true" width="60%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hridaysonar&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffeb95&area=true&hide_border=true" width="100%"/>
+</div>
+---------------
 
 ---
 
