@@ -1,5 +1,7 @@
 <!-- Banner Image -->
 <img src="https://i.imgur.com/0Xr7gXn.png" alt="GitHub Banner" width="100%" />
+![Uploading image.png…]()
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 <h1 align="center">Hi, I'm Pritom Proshad <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" height="30" /></h1>
