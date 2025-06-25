@@ -54,6 +54,9 @@ I am a student of Computer Science & Technology (CST). For the past 6 months, I 
 ![](https://github-readme-stats.vercel.app/api?username=pritom352&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pritom352&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritom352&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=pritom352&icon=0&color=0)](https://visitcount.itsvg.in)
 ---------------
 
 ---
