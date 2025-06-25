@@ -2,7 +2,6 @@
 <img src="https://i.imgur.com/0Xr7gXn.png" alt="GitHub Banner" width="100%" />
 ![Uploading image.png…]()
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 <h1 align="center">Hi, I'm Pritom Proshad <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" height="30" /></h1>
 
@@ -51,15 +50,7 @@ I am a student of Computer Science & Technology (CST). For the past 6 months, I 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritom352)
 </div>
---------------
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pritom352&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pritom352&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritom352&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=pritom352&icon=0&color=0)](https://visitcount.itsvg.in)
----------------
 
 ---
 
