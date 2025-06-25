@@ -2,8 +2,8 @@
 
 <p align="center">
   <strong align="center">Hi, I'm </strong>
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E91EC&width=280&lines=Pritom+Proshad" alt="Typing Name" style="display:inline;" />
-  <img align="center" src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" height="24" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E91EC&width=280&lines=Pritom+Proshad" alt="Typing Name" " />
+  <img align="center" src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png"  />
 </p>
 
 
