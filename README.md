@@ -1,6 +1,12 @@
 <img src="https://raw.githubusercontent.com/pritom352/pritom352/refs/heads/main/ChatGPT%20Image%20Jun%2025%2C%202025%2C%2009_20_24%20AM.png" alt="GitHub Banner" width="100%" height="500" />
 
 <h1 align="center">Hi, I'm Pritom Proshad <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" height="30" /></h1>
+<h1 align="center">Hi, I'm <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" height="30" /></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0E91EC&center=true&vCenter=true&width=300&lines=Pritom+Proshad" alt="Typing Name" />
+</p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=HRIDAY%20SONAR&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=51&descAlign=62"/>
