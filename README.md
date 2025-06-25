@@ -45,13 +45,18 @@ I am a student of Computer Science & Technology (CST). For the past 6 months, I 
 
 ## 📈 GitHub Stats
 
-<div align="center">
-![Pritom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritom352&show_icons=true&theme=default)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritom352&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pritom352&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritom352)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritom352&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritom352&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 
 ---
