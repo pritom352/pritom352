@@ -1,10 +1,11 @@
 <img src="https://raw.githubusercontent.com/pritom352/pritom352/refs/heads/main/ChatGPT%20Image%20Jun%2025%2C%202025%2C%2009_20_24%20AM.png" alt="GitHub Banner" width="100%" height="500" />
 
 <p align="center">
-  <strong align="center">Hi, I'm </strong>
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E91EC&width=280&lines=Pritom+Proshad" alt="Typing Name" " />
-  <img align="center" src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png"  />
+  <span style="font-size:24px; font-weight:bold;">Hi, I'm </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E91EC&width=250&lines=Pritom+Proshad" alt="Typing Name" style="vertical-align:middle;" />
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" height="24" style="vertical-align:middle;" />
 </p>
+
 
 
 
