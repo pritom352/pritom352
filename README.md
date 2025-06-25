@@ -50,18 +50,10 @@ I am a student of Computer Science & Technology (CST). For the past 6 months, I 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritom352)
 </div>
 --------------
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hridaysonar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridaysonar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridaysonar&theme=tokyonight&hide_border=true" width="60%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hridaysonar&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffeb95&area=true&hide_border=true" width="100%"/>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pritom352&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pritom352&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritom352&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---------------
 
 ---
