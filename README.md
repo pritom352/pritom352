@@ -1,5 +1,7 @@
 <!-- Banner Image -->
 <img src="https://i.imgur.com/0Xr7gXn.png" alt="GitHub Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/pritom352/pritom352/refs/heads/main/ChatGPT%20Image%20Jun%2025%2C%202025%2C%2009_20_24%20AM.png" alt="GitHub Banner" width="100%" />
+
 ![Uploading image.png…]()
 
 
