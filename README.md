@@ -37,11 +37,18 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">![Pritom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritom352&show_icons=true&theme=default)
+<div align="center">
+![Pritom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritom352&show_icons=true&theme=default)
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritom352&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritom352)</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritom352)
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hridaysonar&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hridaysonar?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue?style=for-the-badge" alt="Focus" />
+</div>
 
 ---
 
