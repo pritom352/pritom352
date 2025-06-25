@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <img src="https://i.imgur.com/0Xr7gXn.png" alt="GitHub Banner" width="100%" />
 
-<h1 align="center">Hi, I'm Pritom Proshad 👋</h1>
+<h1 align="center">Hi, I'm Pritom Proshad <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" height="30" /></h1>
+
 <h3 align="center">Front-End Web Developer | React Enthusiast</h3>
 
 ---
