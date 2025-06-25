@@ -37,11 +37,11 @@
 
 ## 📈 GitHub Stats
 
-![Pritom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritom352&show_icons=true&theme=default)
+<div align="center">![Pritom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritom352&show_icons=true&theme=default)
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritom352&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritom352)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritom352)</div>
 
 ---
 
