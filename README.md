@@ -3,9 +3,9 @@
 <h1 align="center">Hi, I'm Pritom Proshad <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" height="30" /></h1>
 <h1 align="center">Hi, I'm <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" height="30" /></h1>
 
-<p align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0E91EC&center=true&vCenter=true&width=300&lines=Pritom+Proshad" alt="Typing Name" />
-</p>
+
 
 
 <div align="center">
