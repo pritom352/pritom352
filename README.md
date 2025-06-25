@@ -54,8 +54,9 @@ I am a student of Computer Science & Technology (CST). For the past 6 months, I 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritom352&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=pritom352&theme=tokyonight" alt="GitHub Streak" />
 </p>
+>
 
 
 
