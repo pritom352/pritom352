@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" height="24" />
   <b>Hi, I'm</b>&nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E91EC&width=220&lines=Pritom+Proshad" alt="Typing Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=100&color=0E91EC&width=220&lines=Pritom+Proshad" alt="Typing Name" />
 </h1>
 <table align="center">
 <tr>
