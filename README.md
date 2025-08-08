@@ -5,7 +5,8 @@
   Hi I am Pritom Proshad 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="30" height="30" style="vertical-align:middle;" />
 </h1>
-<h3 align="center">Designation: Web Developer</h3>
+<h3 align="center">Web Developer | Building Modern Web Experiences</h3>
+
 
 
 
