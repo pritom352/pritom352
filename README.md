@@ -20,7 +20,7 @@ I’m a Computer Science & Technology (CST) student with a strong interest in bu
 
 🌱 I am currently learning Next.js
 
-🔁 I contribute to GitHub every day
+
 
 ---
 
