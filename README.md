@@ -1,7 +1,10 @@
 <img src="https://raw.githubusercontent.com/pritom352/pritom352/refs/heads/main/ChatGPT%20Image%20Jun%2025%2C%202025%2C%2009_20_24%20AM.png" alt="GitHub Banner" width="100%" height="500" />
 ---
-<h2>Hi I am Pritom Proshad</h2>
-<h3>Designation: Web Developer</h3>
+<h2 align="center">
+  Hi I am Pritom Proshad 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="30" height="30" style="vertical-align:middle;" />
+</h2>
+<h3 align="center">Designation: Web Developer</h3>
 
 ---
 
