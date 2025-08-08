@@ -65,10 +65,11 @@ I’m a Computer Science & Technology (CST) student with a strong interest in bu
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pritom352&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritom352&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=pritom352&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pritom352&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritom352&layout=compact&theme=tokyonight" alt="Top Languages" />
+
 </p>
 
