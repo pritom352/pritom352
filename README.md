@@ -47,7 +47,7 @@ I am a student of Computer Science & Technology (CST). For the past 6 months, I 
 ---
 
 ## 🌐 Connect with Me
-<div style="text-align: center;">
+<div align="center">
   <a href="https://www.facebook.com/pritom.proshad.2024" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>&nbsp;&nbsp;
