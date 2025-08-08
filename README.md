@@ -35,14 +35,12 @@ I’m a Computer Science & Technology (CST) student with a strong interest in bu
   <!-- Example for React Router -->
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 
-<!-- Example for Nodemon -->
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+
 
 <!-- Example for JWT -->
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-<!-- Example for Canva -->
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+
 
 </p>
 
