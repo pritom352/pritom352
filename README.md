@@ -26,6 +26,22 @@ I am a student of Computer Science & Technology (CST). For the past 6 months, I 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,firebase" />
+    <br/>
+  <!-- Example for DaisyUI -->
+<img src="https://img.shields.io/badge/DaisyUI-FF61F6?style=for-the-badge&logo=TailwindCSS&logoColor=white" />
+
+  <!-- Example for React Router -->
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+
+<!-- Example for Nodemon -->
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+
+<!-- Example for JWT -->
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+<!-- Example for Canva -->
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+
 </p>
 
 ---
