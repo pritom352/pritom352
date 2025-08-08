@@ -76,7 +76,7 @@ I’m a Computer Science & Technology (CST) student with a strong interest in bu
 ---
 
 <p align="center">
-  <strong>Thank you for taking the time to explore my GitHub profile! 🙌</strong>
+  <strong>Thank you for taking the time to explore my GitHub profile! 🤗</strong>
 </p>
 
 <p align="center">
