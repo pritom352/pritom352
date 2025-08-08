@@ -1,16 +1,7 @@
 <img src="https://raw.githubusercontent.com/pritom352/pritom352/refs/heads/main/ChatGPT%20Image%20Jun%2025%2C%202025%2C%2009_20_24%20AM.png" alt="GitHub Banner" width="100%" height="500" />
-
 ---
-
-<table align="center">
-<tr>
-  <td><strong>Hi, I'm&nbsp;</strong></td>
-  <td>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E91EC&width=220&lines=Pritom+Proshad" alt="Typing Name" />
-  </td>
-  <td>👋</td>
-</tr>
-</table>
+<h2>Hi I am Pritom Proshad</h2>
+<h3>Designation: Web Developer</h3>
 
 ---
 
@@ -36,17 +27,10 @@ I am a student of Computer Science & Technology (CST). For the past 6 months, I 
 
 ---
 
-## 🎯 Featured Projects
-
-- **[Your Project Name 1](https://github.com/pritom352/project1)** — Short description of the project and key technologies.
-- **[Your Project Name 2](https://github.com/pritom352/project2)** — Short description with highlights.
-
----
-
 ## 🌐 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pritom.proshad.2024)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritomproshad@gmail.com)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pritom.proshad.2024)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritomproshad@gmail.com)
 
 ---
 
