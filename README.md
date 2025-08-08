@@ -24,8 +24,8 @@ I am a student of Computer Science & Technology (CST). For the past 6 months, I 
 
 ## 🛠️ My Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,firebase" />
 </p>
 
 ---
