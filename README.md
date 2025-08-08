@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/pritom352/pritom352/refs/heads/main/ChatGPT%20Image%20Jun%2025%2C%202025%2C%2009_20_24%20AM.png" alt="GitHub Banner" width="100%" height="500" />
+<img src="https://www.canva.com/design/DAGveSlugWM/EFxFDmhbQDyWkCky8gTknw/edit?utm_content=DAGveSlugWM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="GitHub Banner" width="100%" height="500" />
 
 <h1 align="center">
   Hi I am Pritom Proshad 
