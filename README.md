@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/pritom352/pritom352/refs/heads/main/ChatGPT%20Image%20Jun%2025%2C%202025%2C%2009_20_24%20AM.png" alt="GitHub Banner" width="100%" height="500" />
+
 ---
-<h2>Hi I am Pritom Proshad</h2>
-<!-- <table align="center">
+
+<table align="center">
 <tr>
   <td><strong>Hi, I'm&nbsp;</strong></td>
   <td>
@@ -9,12 +10,11 @@
   </td>
   <td>👋</td>
 </tr>
-</table> -->
-
+</table>
 
 ---
-## 🧑‍💻 About Me
 
+## 🧑‍💻 About Me
 
 I am a student of Computer Science & Technology (CST). For the past 6 months, I have been learning front-end web development and have built several high-quality projects.
 
@@ -36,10 +36,17 @@ I am a student of Computer Science & Technology (CST). For the past 6 months, I 
 
 ---
 
+## 🎯 Featured Projects
+
+- **[Your Project Name 1](https://github.com/pritom352/project1)** — Short description of the project and key technologies.
+- **[Your Project Name 2](https://github.com/pritom352/project2)** — Short description with highlights.
+
+---
+
 ## 🌐 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pritom.proshad.2024)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritomproshad@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pritom.proshad.2024)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritomproshad@gmail.com)  
 
 ---
 
@@ -56,9 +63,3 @@ I am a student of Computer Science & Technology (CST). For the past 6 months, I 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=pritom352&theme=tokyonight" alt="GitHub Streak" />
 </p>
->
-
-
-
----
-
