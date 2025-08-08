@@ -73,3 +73,14 @@ I’m a Computer Science & Technology (CST) student with a strong interest in bu
 
 </p>
 
+---
+
+<p align="center">
+  <strong>Thank you for taking the time to explore my GitHub profile! 🙌</strong>
+</p>
+
+<p align="center">
+  If you like what I do, feel free to connect or reach out — I’m always open to collaboration and learning opportunities!
+</p>
+
+
