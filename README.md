@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a student of Computer Science & Technology (CST). For the past 6 months, I have been learning front-end web development and have built several high-quality projects.
+I’m a Computer Science & Technology (CST) student with a strong interest in building clean, responsive, and user-friendly web applications. I'm currently deepening my skills through full-stack projects that help me better understand real-world development, focusing on writing clean code and creating meaningful user experiences.
 
 🌍 I live in Naogaon, Rajshahi, Bangladesh
 
